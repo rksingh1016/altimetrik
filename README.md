@@ -37,8 +37,14 @@ Notes:
 ●	Write it in PHP
    
 Thanks!   
+
 Solution:
 How to run the program:
 1. Download/clone the code written in php
-2. Run the code locally(php should be installed locally)
-3. The output can be seen in text or html(for better tabular format and redability)
+2. Run the code locally(php should be installed locally) by executing primefinal.php
+3. The output can be seen in text format
+4. or, run the code in online PHP editor by pasting the code 
+or, just hit this url: https://paiza.io/projects/KzBxCKiE2xfFsnvGvajwiQ?language=php
+ 
+
+
